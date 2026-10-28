@@ -1,0 +1,11 @@
+# Conda environment for cellpose_segment_measure_scatter.ipynb
+#   conda env create -f environment.yml
+#   conda activate cellpose
+name: cellpose
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - -r requirements.txt

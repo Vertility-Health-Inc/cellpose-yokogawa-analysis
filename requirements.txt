@@ -1,0 +1,12 @@
+# Versions the notebook was tested with (Apple-silicon Mac, Oct 2026).
+cellpose==4.0.4
+torch==2.7.1
+numpy==2.2.6
+pandas==2.3.1
+scipy==1.15.2
+scikit-image==0.25.2
+tifffile==2025.5.10
+matplotlib==3.10.3
+tqdm==4.67.1
+jupyterlab
+ipykernel
